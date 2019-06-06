@@ -3,7 +3,7 @@
 
 
 # Screenshot
-![https://github.com/lsyefficient/QToolButton/blob/master/app_screen.png) 
+![image](https://github.com/lsyefficient/QToolButton/blob/master/app_screen.png) 
 
 
 ## donate：（打赏幸苦费）
