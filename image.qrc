@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/auto_color_auto_start.png</file>
+        <file>res/dst_direction_1.png</file>
+    </qresource>
+</RCC>
